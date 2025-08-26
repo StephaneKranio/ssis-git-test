@@ -1,0 +1,4 @@
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts">
+  <DTS:Property DTS:Name="DTSID">{663beeaf-6cde-4cd1-9735-76c72897ff35}</DTS:Property>
+  <DTS:Property DTS:Name="CreationDate">2025-08-25T15:00:00</DTS:Property>
+</DTS:Executable>
