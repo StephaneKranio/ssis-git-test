@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="7/2/2025 5:33:48 PM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="K-LORE"
+  DTS:CreatorName="K-LORE\paoba"
+  DTS:DTSID="{IGNORED-GUID}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="16.0.5685.2"
+  DTS:LocaleID="13322"
+  DTS:ObjectName="Package1"
+  DTS:PackageType="5"
+  DTS:VersionBuild="133"
+  DTS:VersionGUID="{IGNORED-GUID}">
