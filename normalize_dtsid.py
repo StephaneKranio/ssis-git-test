@@ -15,3 +15,5 @@ else:
     data = sys.stdin.read()
     clean = re.sub(r'\{[0-9A-Fa-f\-]{36}\}', '{IGNORED-GUID}', data)
     sys.stdout.write(clean)
+    
+# hehe
